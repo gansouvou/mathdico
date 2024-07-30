@@ -1,0 +1,130 @@
+
+[ 
+   
+{
+    "mot": "suite",
+    "indice": "est une série d'éléments ou d'objets ordonnés."
+}, 
+
+{
+    "mot": "Triangle équilatéral",
+    "indice": " Un triangle dont tous les côtés sont de la même longueur."
+},
+
+{
+    "mot": "Triangle isocèle",
+    "indice": " Un triangle dont deux côtés sont égaux."
+},
+
+{
+    "mot": "Triangle rectangle",
+    "indice": " Un triangle dont tous les côtés sont parallèles à deux côtés d'un rectangle."
+},
+
+{
+    "mot": "Cercle",
+    "indice": " Un ensemble de points situés à une même distance d'un point donné, appelé centre."
+},
+
+{
+    "mot": "Diamètre",
+    "indice": " La distance la plus grande entre deux points situés sur le cercle, passant par le centre."
+},
+{
+    "mot": "Rayon",
+    "indice": " Un segment de droite joignant le centre d'un cercle à un point de son périmètre."
+},
+{
+    "mot": "Méridien",
+    "indice": " Une ligne imaginaire qui passe par les pôles d'un globe terrestre et traverse l'équateur à 90°."
+},
+{
+    "mot": "Parallèle",
+    "indice": " Une ligne imaginaire qui ne croise aucune autre ligne imaginaire équivalente à elle-même et qui est perpendiculaire aux méridiens."
+},
+{
+    "mot": "Angle droit",
+    "indice": " Un angle dont les deux côtés sont parallèles et dont la mesure est égale à 90°."
+},
+{
+    "mot": "Angle aigu",
+    "indice": " Un angle dont la mesure est comprise entre 0° et 90°."
+},
+{
+    "mot": "Angle obtus",
+    "indice": " Un angle dont la mesure est comprise entre 90° et 180°."
+},
+{
+    "mot": "segment",
+    "indice": " une portion de droite délimitée par deux points."
+},
+{
+    "mot": "médiane",
+    "indice": "est le nombre qui divise une série en deux groupes égaux en nombre de termes."
+},
+{
+    "mot": "mode",
+    "indice": "est le nombre qui apparaît le plus fréquemment dans une série."
+},
+{
+    "mot": "écart type",
+    "indice": "est une mesure de la dispersion des valeurs d'une série autour de sa moyenne."
+},
+{
+    "mot": "variance",
+    "indice": "est une mesure de la dispersion des valeurs d'une série autour de sa moyenne."
+},
+{
+    "mot": "Angle",
+    "indice": " Une mesure de l'ouverture formée par deux lignes ou des lignes et une courbe lorsqu'elles se coupent."
+},
+{
+    "mot": "Parallèle",
+    "indice": " Deux lignes géométriques qui ne se coupent pas "
+},
+{
+    "mot": "Perpendiculaire",
+    "indice": " Une ligne géométrique qui passe par le milieu d'un segment et qui forme un angle droit avec le segment."
+},
+{
+    "mot": "Triangle",
+    "indice": " Un polygone ayant trois côtés."
+},
+{
+    "mot": "Quadrilatère",
+    "indice": " Un polygone ayant quatre côtés."
+},
+{
+    "mot": "Point",
+    "indice": " Un endroit de l'espace qui peut être défini par des coordonnées."
+},
+{
+    "mot": "Vecteur",
+    "indice": " Une quantité physique qui a une direction, un sens et une norme. "
+},
+{
+    "mot": "Coordonnée",
+    "indice": " Une mesure de la position d'un point par rapport à une référence donnée, telle qu'un axe ou un plan."
+},
+{
+    "mot": "Équation",
+    "indice": " Une expression mathématique qui établit une égalité entre deux termes."
+},
+{
+    "mot": "Inconnue",
+    "indice":  "Une variable qui n'est pas déterminée dans une équation."
+},
+{
+    "mot": "Fonction",
+    "indice": " Une relation entre une ou plusieurs variables indépendantes et une ou plusieurs variables dépendantes"
+},
+{
+    "mot": "Dérivée",
+    "indice": " La mesure de la pente d'une courbe au voisinage d'un point donné."
+}, 
+{
+    "mot": "Intégrale",
+    "indice": " La mesure de l'aire sous une courbe au voisinage d'un intervalle donné."
+}
+
+]

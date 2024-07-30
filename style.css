@@ -1,0 +1,110 @@
+*{ padding: 0; margin: 0; box-sizing: border-box; font-family: Arial,'Times New Roman', Times, sans-serif; }
+li{ list-style-type: none;}
+a{ text-decoration: none;}
+button{ cursor: pointer;}
+img{ width: 25px; border-radius: 45%; cursor: pointer; }
+body{ background-color: #e0dddd; display: flex; flex-direction: column; }
+header, main{ max-width: 300px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+header{ background-color: #f2f2f2; position: relative; }
+header h1{ display: none;}
+h1{ text-align: center; padding: 20px 0; margin-top: 55px; background-color: #a2a2a2;border: 0.5px solid; font-size: 25px;  font-weight: bolder; text-transform: uppercase;                                                                                                                                                     color: transparent;background-image: linear-gradient(#e0dddd,#e0dddd); background-repeat: no-repeat; background-position: -300px 0; -webkit-background-clip: text; animation: backcolor 5s linear infinite alternate; }
+@keyframes backcolor{ 100%{     background-position: 0 0; } }
+h2{ color: #849b63; font-weight: 900; text-align: center; margin: 10px; }
+h3{ color: green; }
+h5{ text-transform: uppercase; font-size: 20px; font-weight: 900; padding: 10px; padding-left: 25px; color:rgb(166, 223, 166); }
+.menu1{ position: fixed; top: 0; z-index: 1000;  text-align: center; width: 300px; padding: 15px 30px; padding-right: 25px; background-color: #e0dddd; display: flex; justify-content: space-between; align-items: center; }
+.menu{ display: flex; flex-direction:column; gap: 25px; background-color: #f2f2f2; width: 300px; margin-top: 52px; padding: 15px; position: absolute; top: -500vh; min-height: 100vh; z-index: 1000;}
+.menu li{ margin: 0 15px; list-style-type: none; list-style: none; }
+.menu li a{ color: inherit; font-size: 15px; font-weight: 500; display: flex; align-items: center; gap: 10px; }
+.menu2{ width: 30px; background-color: #222121;  display: flex; align-items: center; justify-content: center; cursor: pointer; position: relative; }
+.menu2::after{ content: ""; height: 2px; width: 20px;  background-color: #111; box-shadow: 0 5px 0 #111; transform: translateY(-5px); transition: 0.5s; position: absolute; }
+.menu2.active::after{ box-shadow: 0 0 0 #111;  transform: rotate(45deg); }
+.menu2::before{ content: ""; height: 2px; width: 20px;  background-color: #111; box-shadow: 0 5px 0 #111; transform: translateY(5px); transition: 0.5s; position: absolute; }
+.menu2.active::before{ transform: rotate(-45deg); box-shadow: 0 0 0 #111; } 
+.menu.responsive{ top: 0; align-items: unset; animation: animate-menu 1s forwards; }
+@keyframes animate-menu { 
+    0%{ 
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(100);
+    } 
+}
+main{ padding: 0 20px; background-color: azure; position: relative; min-height: 100vh; }
+.end{ width: 100%; position: absolute; bottom: 0; padding: 10px; text-align: center; background-color: #e0dddd; color: rgb(145, 133, 133); }
+ /* dico */
+.mots{ width: 100%;}
+.mots li, .btn{ margin: 5px; padding:10px; border: 1px solid; border-radius: 10px;  color: green; text-transform: capitalize; display: flex; transition: 0.15s;  }
+.mots li:hover, .btn:hover{ font-weight: 600; box-shadow: inset -5px 5px 20px rgba(0, 0, 0, 0.2) ; background: linear-gradient(to bottom, azure 10%, #e0dddd 90%); }
+.mots li a{ text-decoration: none; cursor: pointer;  width: 100%; }
+.definition{ display: none; flex-direction: column; margin: 15px auto; margin-bottom: 25px; padding-bottom: 15px; text-align: center; border: 0.1px solid; border-top: none; }
+.definition .motchoisit{ font-weight: 600; text-transform: capitalize;  color: green; background-color:#dee9e9; padding: 5px; margin-bottom: 10px; width: 100%; border: 1px solid;  }
+.btn{ display:none; width: 100%; margin: 15px auto; }
+    /* matheux */
+.apercu{ margin-bottom: 5px; color: #4e4a67;}
+.apercu p{ margin-bottom: 25px; text-align:justify;}
+      /* acceuil */
+.contenu {  height: 100vh;  display:flex; justify-content: center; align-items: center;  background: #e0dddd;}
+.cards {  position: relative;  height: 450px; width: 290px; background: azure;  display: flex; align-items: center;   border-radius: 20px; box-shadow: 0 5px 5px 0 rgba(0,0,0,0.4);}
+.card {  display: flex;flex-direction: column; align-items: center; justify-content: center;  position: absolute; top: 50px;  z-index: 1;}
+.card .img {height: 100px; width: 100px;flex-shrink: 0; opacity: 0; overflow: hidden;transition: opacity .2s ease-in-out, margin-top .3s ease-in-out;}
+.card img {width: 100%; height: 100%;}
+.content { padding: 15px; opacity: 0; text-align: center; transition: 0.6s;}
+.content span {display: block; margin-bottom: 15px; color: #7b7992; font-size: 15px; font-weight: 700;}
+.content .title { font-size: 20px; font-weight: 700; color: rgb(136, 230, 136); margin-bottom: 10px;}
+.content .text { font-size: 18px; color: #4e4a67; line-height: 1.5em; }
+.dots { position: absolute; width: 100%; bottom: 100px; display: flex; justify-content: center; gap: 45px;    z-index: 200;}
+.dots .dot {  position: relative; height: 20px; width: 20px; background: #a2a2a2;    display: inline-flex; margin: 0 3px;    border-radius: 50%; cursor: pointer; }
+.dots .dot::before { content: ""; position: absolute; top: 0; left: 0; height: 100%; width: -100%; background: green; border-radius: 50%; transform: scaleX(0); transform-origin: left; transition: transform .2s ease-in-out; }
+.dots .dot:hover:before { transform: scaleX(1); width: 100%; } 
+#dot-1:checked ~ .card .img-1,#dot-2:checked ~ .card .img-2{ opacity: 1; margin-top: 0; }
+ #dot-1:checked ~ .card .content-1, #dot-2:checked ~ .card .content-2{  opacity: 1; margin-left: 0; z-index: 100; transition-delay: .3s; }
+#dot-1:checked ~ .dots .dot-1:before,#dot-2:checked ~ .dots .dot-2:before{ transform: scaleX(1);  width: 100%; }  
+.cards input { display: none; }
+.cards .btn{ width: 50%; background: none; justify-content: center; position:absolute ; bottom: 0; transform: translateX(50%); display: flex; z-index: 1; }
+.cards .btn a{ color: green; }
+
+/* responsive */
+
+@media  screen and (min-width: 450px) {
+    header, main, footer{ max-width: 400px;}
+    h1{ background-position: -400px 0; animation:backcolor 10s; }   
+    .menu1{ width: 400px;}
+    .menu{ width: 400px;}
+    main{ padding-top: 10px; width: 400px; padding-bottom: 100px; }
+    .foot{ width: 400px;padding: 10px;}
+    .mot li, .btn{ margin: 5px 25px;}
+    .definition{ width: 80%; }
+    .btn{ width: 60%; margin: 45px auto;}
+    .chrono { width: 200px;}
+    .mot{ width: 70%;}
+    .infos p, .input{ width: 70%;}
+    .buttons { margin-top: 15px }
+}
+@media  screen and (min-width: 600px) {
+    header, main, footer{ max-width: 550px;}
+    h1{ background-position: -550px 0; animation:backcolor 13s; } 
+    .menu1,.menu, main, .foot{ width: 500px;}
+    .chrono { width: 250px;}
+}
+@media  screen and (min-width: 700px) {
+    body{flex-direction: row; justify-self:self-start; }
+    header, main{ position: sticky; align-self:  flex-start; display:flex; flex-direction: column; top: 70px; margin: 0;}
+    footer{display: none;}
+    header{ flex-basis: 35%; z-index: 10;}
+    .menu1{width: 100%; height: 70px; position: fixed; z-index: 1000; top: 0; right: 0;}
+    .menu2{ display: none; }
+    header h3{ margin: 0; width: 35%; padding: 0 20px;}
+    header h1{ display: block;position: fixed; z-index: 1000; left: 35%; margin: 0; width: 65%; background-position: -700px 0; background-image: linear-gradient(#e0dddd,#b3a9a9); animation: backcolor 15s linear infinite alternate; }
+    .menu{ width: 100%; margin-top: 0; position: inherit;}  
+    main{ flex-basis: 65%; max-width: 100%; margin-top: 70px; width: 100%; min-height: 100vh; z-index: 0;}
+    main h1{ display: none;}
+    .mots{ width: 100%;}
+    .mots li, .btn{ margin: 10px; }
+    .definition{margin: 30px auto;  padding-bottom: 25px;}
+    .definition .motchoisit{ padding: 10px; }
+    .btn{width: 60%;}     
+}
+
+.gotop{ position: fixed; bottom: 10px; right: 10px; width: 15px; height: 15px;  color: g; display: grid; place-items: center; font-size: 18px; border-radius: 10px; }
+
