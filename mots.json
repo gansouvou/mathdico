@@ -1,130 +1,2661 @@
 
-[ 
-   
-{
-    "mot": "suite",
-    "indice": "est une série d'éléments ou d'objets ordonnés."
-}, 
+[
 
 {
-    "mot": "Triangle équilatéral",
-    "indice": " Un triangle dont tous les côtés sont de la même longueur."
+ "mot": "Abscisse",
+ "indice" : "Coordonnée horizontale d'un point dans un système de coordonnées cartésiennes."
 },
 
 {
-    "mot": "Triangle isocèle",
-    "indice": " Un triangle dont deux côtés sont égaux."
+    "mot": "Addition",
+    "indice" : "Opération qui consiste à ajouter des nombres"
+},
+{
+
+"mot": "Adjacent",
+"indice": "Se dit d’angles qui ont un sommet et un côté commun."
 },
 
 {
-    "mot": "Triangle rectangle",
-    "indice": " Un triangle dont tous les côtés sont parallèles à deux côtés d'un rectangle."
+"mot": "Affinité du plan",
+"indice": "Transformation géométrique qui conserve le parallélisme mais pas nécessairement les distances ni les angles."
 },
 
 {
-    "mot": "Cercle",
-    "indice": " Un ensemble de points situés à une même distance d'un point donné, appelé centre."
+"mot": "Aire" ,
+"indice": " Mesure de la surface d'une figure géométrique."
 },
 
 {
-    "mot": "Diamètre",
-    "indice": " La distance la plus grande entre deux points situés sur le cercle, passant par le centre."
+
+"mot": "Ajouter",
+"indice" : "Opération mathématique consistant à combiner deux nombres ou plus pour obtenir une somme."
+},
+
+
+{
+"mot": "Algèbre ",
+"indice": "Branche des mathématiques étudiant les opérations, les relations et les structures."
+},
+
+{
+"mot": "Algorithme",
+ "indice": "Suite finie d'instructions permettant de résoudre un problème ou d'effectuer un calcul."
 },
 {
-    "mot": "Rayon",
-    "indice": " Un segment de droite joignant le centre d'un cercle à un point de son périmètre."
+"mot":"Anagramme",
+  "indice":"Réarrangement des lettres d'un mot pour former un autre mot."
 },
 {
-    "mot": "Méridien",
-    "indice": " Une ligne imaginaire qui passe par les pôles d'un globe terrestre et traverse l'équateur à 90°."
+"mot":"Analyse",
+"indice" : "Branche des mathématiques étudiant les fonctions, les limites, les dérivées et les intégrales."
+},
+
+{
+"mot":"Angle",
+ "indice": "Figure formée par deux demi-droites ayant une origine commune."
+},
+
+{
+
+"mot":"Angle adjacent",
+"indice": "Deux angles qui partagent un côté commun et qui sont situés de part et d'autre de ce côté."
 },
 {
-    "mot": "Parallèle",
-    "indice": " Une ligne imaginaire qui ne croise aucune autre ligne imaginaire équivalente à elle-même et qui est perpendiculaire aux méridiens."
+
+"mot":"Angle aigu",
+  "indice":"Angle dont la mesure est inférieure à 90 degrés."
 },
 {
-    "mot": "Angle droit",
-    "indice": " Un angle dont les deux côtés sont parallèles et dont la mesure est égale à 90°."
+
+"mot":"Angles alternes internes",
+  "indice":"Paires d'angles situés entre deux droites parallèles et de part et d'autre d'une transversale."
 },
 {
-    "mot": "Angle aigu",
-    "indice": " Un angle dont la mesure est comprise entre 0° et 90°."
+
+"mot":"Angle au centre d'un cercle",
+ "indice": "Angle formé par deux rayons du cercle."
 },
 {
-    "mot": "Angle obtus",
-    "indice": " Un angle dont la mesure est comprise entre 90° et 180°."
+
+"mot":"Angle droit",
+ "indice":"Angle dont la mesure est de 90 degrés."
+},
+
+{
+"mot":"Angle inscrit dans un cercle",
+ "indice": "Angle dont le sommet est un point du cercle et dont les côtés sont des cordes du cercle."
+},
+
+{
+"mot":"Angles supplémentaires",
+ "indice":"Deux angles dont la somme est égale à 180 degrés."
+},
+
+{
+"mot":"Angles complémentaires",
+ "indice":"Deux angles dont la somme est égale à 90 degrés."
+},
+
+{
+
+"mot":"Angle obtus",
+ "indice":"Angle dont la mesure est comprise entre 90 et 180 degrés."
+},
+
+{
+
+"mot":"Angle plat",
+ "indice":" Angle dont la mesure est de 180 degrés."
 },
 {
-    "mot": "segment",
-    "indice": " une portion de droite délimitée par deux points."
+
+"mot":"Angle nul ",
+"indice": "Angle dont la mesure est de 0 degré."
+},
+
+{
+"mot":"Angles opposés par le sommet ",
+"indice": "Deux angles formés par deux droites qui se coupent et ayant le même sommet."
 },
 {
-    "mot": "médiane",
-    "indice": "est le nombre qui divise une série en deux groupes égaux en nombre de termes."
+"mot":"Angles correspondants",
+"indice" : "Angles situés de part et d'autre d'une transversale et du même côté des deux droites parallèles."
+},
+
+{
+"mot":"Apothème",
+"indice" : "Segment joignant le centre d'un polygone régulier à un côté, perpendiculairement à ce côté."
 },
 {
-    "mot": "mode",
-    "indice": "est le nombre qui apparaît le plus fréquemment dans une série."
+
+"mot":"Application",
+"indice" : "Correspondance entre les éléments de deux ensembles, aussi appelée fonction."
+},
+
+{
+"mot" : "Application linéaire",
+"indice" : "Application entre deux espaces vectoriels qui respecte les opérations de somme et de multiplication par un scalaire."
 },
 {
-    "mot": "écart type",
-    "indice": "est une mesure de la dispersion des valeurs d'une série autour de sa moyenne."
+
+"mot":"Application affine",
+"indice" : "Application composée d'une transformation linéaire et d'une translation."
 },
 {
-    "mot": "variance",
-    "indice": "est une mesure de la dispersion des valeurs d'une série autour de sa moyenne."
+"mot":"Arrangements",
+"indice" : "Manières de disposer un certain nombre d'éléments dans un ordre donné."
 },
 {
-    "mot": "Angle",
-    "indice": " Une mesure de l'ouverture formée par deux lignes ou des lignes et une courbe lorsqu'elles se coupent."
+
+"mot":"Argument d'un nombre complexe",
+"indice" : "Angle que forme le vecteur représentant un nombre complexe avec l'axe des abscisses."
 },
 {
-    "mot": "Parallèle",
-    "indice": " Deux lignes géométriques qui ne se coupent pas "
+
+"mot":"Argument ",
+"indice": "Valeur sur laquelle se base un raisonnement ou une fonction."
 },
 {
-    "mot": "Perpendiculaire",
-    "indice": " Une ligne géométrique qui passe par le milieu d'un segment et qui forme un angle droit avec le segment."
+
+"mot":"Arrêt",
+"indice" : "Fin d'un processus ou d'un calcul."
+},
+
+{
+"mot":"Arc de cercle",
+"indice" :" Portion d'un cercle comprise entre deux points."
 },
 {
-    "mot": "Triangle",
-    "indice": " Un polygone ayant trois côtés."
+
+"mot":"Arithmétique",
+"indice" :" Branche des mathématiques étudiant les nombres et les opérations élémentaires sur eux."
 },
 {
-    "mot": "Quadrilatère",
-    "indice": " Un polygone ayant quatre côtés."
+
+"mot":"Asymptote à une courbe",
+"indice" : "Droite que la courbe approche sans jamais la toucher."
 },
 {
-    "mot": "Point",
-    "indice": " Un endroit de l'espace qui peut être défini par des coordonnées."
+
+"mot":"Augmenter",
+"indice" : "Faire croître une quantité."
 },
 {
-    "mot": "Vecteur",
-    "indice": " Une quantité physique qui a une direction, un sens et une norme. "
+"mot":"Axe",
+"indice" :" Droite servant de référence dans un système de coordonnées."
 },
 {
-    "mot": "Coordonnée",
-    "indice": " Une mesure de la position d'un point par rapport à une référence donnée, telle qu'un axe ou un plan."
+
+"mot":"Axe des ordonnées",
+"indice" : "Droite verticale dans un système de coordonnées cartésiennes."
 },
 {
-    "mot": "Équation",
-    "indice": " Une expression mathématique qui établit une égalité entre deux termes."
+
+"mot":"Axe des abscisses ",
+"indice": "Droite horizontale dans un système de coordonnées cartésiennes."
 },
 {
-    "mot": "Inconnue",
-    "indice":  "Une variable qui n'est pas déterminée dans une équation."
+
+"mot":"Axe de symétrie",
+
+"indice" :" Droite qui divise une figure en deux parties symétriques."
 },
 {
-    "mot": "Fonction",
-    "indice": " Une relation entre une ou plusieurs variables indépendantes et une ou plusieurs variables dépendantes"
+
+
+"mot":"Axe médian",
+"indice" : "Axe de symétrie d'une figure."
 },
 {
-    "mot": "Dérivée",
-    "indice": " La mesure de la pente d'une courbe au voisinage d'un point donné."
-}, 
+
+"mot":"Axiome ",
+"indice":" Proposition admise sans démonstration servant de base à un raisonnement ou à une théorie."
+},
 {
-    "mot": "Intégrale",
-    "indice": " La mesure de l'aire sous une courbe au voisinage d'un intervalle donné."
+
+"mot":"Barycentre",
+"indice" :" Point représentant le centre de gravité d'un système de points pondérés."
+},
+{
+
+"mot":"Base ",
+"indice": "Ensemble de vecteurs qui génèrent un espace vectoriel."
+},
+{
+"mot":"Bissectrice d'un angle",
+"indice" : "Demi-droite qui divise un angle en deux angles égaux."
+},
+{
+
+"mot":"Bijection réciproque d'une fonction ",
+"indice":" Fonction qui annule une bijection, permettant de retrouver l'élément original à partir de son image."
+},
+{
+"mot":"Billion",
+"indice" : "1000 milliards"
+},
+{
+
+"mot":"Binaire",
+"indice" :" Désigne une manière de compter par deux"
+},
+{
+
+"mot":"Binôme",
+"indice" : "Polynôme à deux termes"
+},
+{
+
+"mot":"Bissectrice ",
+"indice": "Demi-droite qui coupe un angle en deux angles égaux"
+},
+{
+
+"mot":"Boule",
+"indice" :" Ensemble des points d'un espace dont la distance à un point fixe est inférieure ou égale à un rayon donné."
+},
+
+
+
+{
+"mot":"Calcul ",
+"indice":" Désigne le fait d’effectuer des opérations pour obtenir un résultat.Opération visant à déterminer un résultat numérique."
+},
+{
+
+
+"mot":"Calcul algébrique",
+"indice" :" Manipulation d'expressions algébriques selon des règles prédéfinies."},
+{
+
+"mot":"Calculer",
+"indice" :" Effectuer des opérations mathématiques pour obtenir un résultat."
+},
+{
+
+"mot":"Caractère ",
+"indice":" Propriété distinctive d'un élément."
+},
+{
+
+"mot":"Caractère quantitatif",
+"indice" : "Propriété mesurable par des nombres."
+
+},
+{
+
+"mot":"Caractères qualitatifs",
+"indice" :" Propriétés descriptives non mesurables par des nombres."
+},
+{
+
+"mot":"Cardinal",
+"indice" : "Nombre d'éléments dans un ensemble."
+},
+{
+
+"mot":"Carré ",
+"indice":" Quadrilatère régulier ayant quatre côtés égaux et quatre angles droits."
+},
+{
+
+"mot":"Carré d'un nombre",
+"indice" : "Produit d'un nombre par lui-même."
+},
+{
+
+"mot":"Cartésien ",
+"indice":" Se dit d’un repère avec un système d’axes à deux ou trois axes"
+},
+{
+
+"mot":"Centile ",
+"indice": "Désigne chacune des 100 parties égales d’un ensemble ordonné"
+},
+{
+
+"mot":"Cercle",
+"indice" :" Ensemble des points situés à égale distance d'un point donné, appelé centre."
+},
+{
+
+"mot":"Cercle circonscrit",
+"indice" :" Cercle passant par tous les sommets d'un polygone, en particulier un triangle."
+},
+{
+
+"mot":"Cercle circonscrit à un triangle",
+"indice" : "Cercle passant par les trois sommets d'un triangle."
+},
+{
+
+"mot":"Cercle inscrit ",
+"indice": "Cercle tangent aux côtés d'un polygone, en particulier un triangle, et situé à l'intérieur de celui-ci."
+},
+{
+
+"mot":"Centre",
+"indice" :" Point équidistant de tous les points d'une figure géométrique, comme un cercle ou une sphère.Désigne le point situé au milieu d’une structure, d’une figure"
+},
+{
+
+
+"mot":"Centre de symétrie",
+"indice" :" Point par rapport auquel une figure est symétrique."
+},
+{
+
+"mot":"Centre de gravité ",
+"indice": "Point d'équilibre d'une figure géométrique où le poids est uniformément distribué."
+},
+{
+
+"mot":"Circonférence ",
+"indice": "Courbe fermée limitant une surface circulaire"
+},
+{
+
+"mot":"Circulaire",
+"indice" : "Se dit d’une section d’un disque limitée par deux rayons de ce disque"
+},
+{
+
+"mot":"Coïncidence",
+"indice" :" Correspondance exacte entre deux éléments."
+},
+{
+
+"mot":"Classe d'un entier relatif ",
+"indice": "Ensemble des entiers ayant la même valeur modulo un nombre donné."
+},
+{
+
+"mot":"Coefficient ",
+"indice": "Nombre multiplicatif qui apparaît devant une variable ou un terme dans une expression algébrique."
+},
+{
+
+"mot":"Compas",
+"indice" : "Instrument de géométrie permettant de tracer des arcs de cercle."
+},
+ {
+
+"mot":"Comparaison ",
+"indice": "Action de comparer deux objets mathématiques (nombres, figures, etc.) pour déterminer leur relation (égal, plus grand, plus petit)."
+},
+{
+
+"mot":"Comparer",
+"indice" : "Évaluer les similitudes et les différences entre deux objets mathématiques pour déterminer leur relation."
+},
+{
+
+"mot":"Compléter ",
+"indice":" Ajouter des éléments manquants pour rendre une figure ou un ensemble complet."
+},
+{
+
+"mot":"Combinaison ",
+"indice":" Sélection de plusieurs éléments parmi un ensemble, sans tenir compte de l'ordre."
+},
+{
+
+"mot":"Combinaison linéaire ",
+"indice":" Expression d'un vecteur comme somme pondérée d'autres vecteurs."
+},
+{
+
+"mot":"Compatibilité ",
+"indice":" Propriété de deux systèmes ou éléments pouvant fonctionner ensemble sans conflit"
+},
+{
+
+
+"mot":"Complémentarité**",
+"indice" : "Propriété de deux angles dont la somme est égale à 90°."
+},
+{
+
+"mot":"Complémentaires**",
+"indice" :" Angles dont la somme est égale à 90°."
+},
+{
+
+"mot":"Convergence (d'une fonction)**",
+"indice" :" Tendance d'une fonction à se rapprocher d'une valeur spécifique lorsqu'une variable tend vers une certaine limite."
+},
+{
+
+"mot":"Congruence modulo** ",
+"indice": "Relation entre deux entiers qui ont le même reste lorsqu'ils sont divisés par un certain nombre."
+},
+{
+
+"mot":"Continu ",
+"indice":"Se dit d’une fonction dérivable"
+},
+{
+
+"mot":"Continuité d'une fonction**",
+
+"indice" : "Propriété d'une fonction qui n'a pas de rupture, c'est-à-dire pour laquelle l'image d'une limite est la limite des images."
+},
+{
+
+"mot":"Coniques",
+"indice" :" Courbes obtenues par l'intersection d'un plan avec un cône (ellipse, parabole, hyperbole)."
+},
+{
+
+"mot":"Connexe",
+"indice" : "Se dit d’éléments qui se touchent"
+},
+{
+
+"mot":"Concave ",
+"indice":" Élément qui présente une surface courbe en creux"
+},
+{
+
+"mot":"Cône de révolution",
+"indice" : "Solide engendré par la rotation d'un triangle rectangle autour de l'un de ses côtés."
+},
+{
+
+
+"mot":"Cône circulaire droit",
+"indice" :" Cône dont la base est un cercle et l'axe est perpendiculaire à la base."
+},
+{
+
+"mot":"Consécutifs",
+"indice" :" Qui se suivent directement."
+},
+{
+
+"mot":"Confondus",
+"indice" : "Se dit de deux figures ou éléments mathématiques qui occupent la même position dans l'espace."
+},
+{
+
+"mot":"Corde ", 
+"indice":" Segment de ligne reliant deux points sur une courbe, souvent un cercle."
+},
+{
+
+"mot":"Construire",
+"indice" : "Tracer ou dessiner une figure géométrique en suivant des règles spécifiques."
+},
+{
+
+
+"mot":"Coordonnées (d'un point) ",
+"indice": "Ensemble de valeurs numériques qui définissent la position d'un point dans un espace donné."
+},
+{
+
+
+"mot":"Cosinus" ,
+"indice": "Fonction trigonométrique qui, dans un triangle rectangle, est le rapport de la longueur du côté adjacent à un angle aigu à la longueur de l'hypoténuse."
+},
+{
+
+"mot":"Côté",
+"indice" : "Segment de ligne formant une partie de la frontière d'une figure géométrique."
+},
+{
+
+"mot":"Cotangente",
+"indice" :" Fonction trigonométrique définie comme le rapport du cosinus au sinus d'un angle, soit l'inverse de la tangente."
+},
+{
+
+"mot":"Covariance",
+"indice" :" Mesure de la manière dont deux variables aléatoires varient ensemble."
+},
+{
+
+"mot":"Couple (de points)**",
+"indice" : "Paire ordonnée de deux points."
+},
+{
+
+"mot":"Courbe représentative d'une fonction** ",
+"indice": "Ensemble des points du plan de coordonnées (x, f(x)) où f est la fonction."
+},
+{
+
+"mot":"Croissant",
+"indice" : "Du plus petit au plus grand "
+},
+{
+
+"mot" : "Cube",
+"indice" : "Solide dont les six faces sont carrées et égales.Cube d'un nombre"
+},
+{
+
+"mot":"Cylindre" ,
+
+"indice" :" Un solide géométrique avec des bases circulaires parallèles et de même taille, connectées par une surface courbe perpendiculaire aux bases."
+},
+
+
+{
+"mot":"Delta",
+"indice" : "Lettre grecque"
+},
+{
+
+"mot":"Développement limité d'une fonction",
+"indice" : "Une approximation polynomiale d'une fonction autour d'un point donné, basée sur les termes de sa série de Taylor."
+},
+{
+
+"mot":"Demi-tour d'axe D " ,
+"indice": "Une rotation de 180 degrés autour d'un axe D."
+},
+
+{
+
+"mot":"Décomposition en produits de facteurs premiers",
+"indice" :" Exprimer un nombre entier comme un produit de nombres premiers."
+},
+{
+
+"mot":"Degré ",
+"indice":" Unité de mesure des angles"
+},
+{
+
+"mot":"Degré d'un polynôme",
+"indice" : "Le plus grand exposant de la variable dans un polynôme."
+},
+{
+
+"mot":"Demi-plan ",
+"indice":" La partie du plan séparée par une droite."
+},
+{
+
+"mot":"Dérivabilité d'une fonction en un point ",
+"indice": "La capacité d'une fonction à avoir une dérivée en ce point."
+},
+
+{
+
+"mot":"Demi-droite",
+"indice" : "Une droite qui commence à un point donné et s'étend à l'infini dans une direction."
+},
+{
+
+
+"motr":"Définition",
+"indice" :" L'explication précise de la signification d'un terme ou d'un concept."
+},
+{
+
+"mot":"Déduire ",
+"indice":" Tirer une conclusion logique à partir d'informations ou de prémisses données."
+},
+{
+"mot":"Définir",
+"indice" : "Expliquer ou décrire précisément la signification d'un terme."
+},
+{
+
+"mot":"Dénominateur",
+"indice" :" Le nombre situé en bas d'une fraction, indiquant en combien de parties l'unité est divisée."
+},
+{
+
+"mot":"Deux ",
+"indice": "Le nombre entier suivant un et précédant trois."
+},
+{
+
+"mot":"Déterminer ",
+"indice": "Trouver ou calculer une valeur ou une solution."
+},
+{
+
+"mot":"Démontrer",
+"indice" : "Prouver un énoncé ou un théorème par des arguments logiques ou des calculs."
+},
+{
+
+"mot":"Décagone",
+"indice" :" Un polygone à dix côtés."
+},
+{
+
+"mot":"Décimal",
+"indice" :" Désigne une manière de compter par 10"
+},
+{
+
+"mot":"Décroissant",
+"indice" : "Du plus grand au plus petit"
+},
+{
+
+"mot":"Développement",
+"indice" : "L'expansion d'une expression mathématique."},
+
+{
+
+"mot":"Dérivée (d'une fonction) ",
+"indice":" La mesure de la variation instantanée d'une fonction par rapport à une de ses variables."
+
+},
+
+{
+"mot":"Diagonales ",
+"indicxe": "Les segments reliant deux sommets non consécutifs d'un polygone."
+},
+{
+
+"mot":"Diagramme",
+"indice" :" Une représentation graphique des données."
+},
+
+{
+"mit":"Diagramme cumulatif",
+"indice" : "Un graphique montrant l'accumulation des valeurs des données."
+},
+{
+
+"mot":"Diagramme en bâton",
+"indice" :" Un graphique utilisant des barres pour représenter des données."
+},
+{
+
+"mot":"Diagramme semi-circulaire",
+"indice" :" Un graphique circulaire en demi-cercle utilisé pour représenter des proportions."
+},
+{
+
+"mot":"Dimensionse",
+"indice" :" Les mesures de longueur, largeur et hauteur d'un objet."
+},
+
+{
+"mot":"Diamètre",
+"indice" : "Une ligne droite passant par le centre d'un cercle et reliant deux points sur le cercle."
+},
+{
+
+"mot":"Disque",
+"indice" :" Une surface plane circulaire."
+},
+ {
+
+"mot":"Diminuer",
+"indice" : "Réduire en taille, en nombre ou en intensité."
+},
+{
+
+"mot":"Diviseur d'un entier naturel ",
+"indice":" Un entier qui divise un autre entier sans laisser de reste."
+},
+{
+
+"mot":"Divergente ",
+"indice": "Suite sans limites qui tend vers l’infini"
+},
+{
+"mot":"Division",
+"indice" : "Opération mathématique qui consiste à partager un tout en plusieurs parties égales"
+},
+{
+"mot": "Distance",
+"indice" : "Mesure de l'écart entre deux points."
+},
+{
+
+"mot":"Distance à zéro ",
+"indice":" Valeur absolue d'un nombre."
+},
+{
+
+"mot":"Distinct",
+"indice" : "Différent ou séparé."
+},
+
+
+{
+"mot":"Divisible",
+"indice" : "Se dit d’un nombre que l’on peut partager en plusieurs parties"
+},
+{
+
+"mot":"Dix ",
+"indice":" Nombre entier suivant neuf et précédant onze."
+},
+{
+
+"mot":"Dizaine",
+"indice" : "Groupe de dix unités."
+},
+{
+
+"mot":"Donnée",
+"indice" :" Information brute utilisée pour calculer, raisonner ou planifier."
+},
+
+{
+
+"mot":"Double ",
+"indice": "Multiplication par deux."
+},
+{
+
+"mot":"Droite ",
+"indice": "Ligne infinie sans courbure."
+},
+{
+
+"mot":"Droites parallèles ",
+"indice": "Droites dans un même plan qui ne se rencontrent jamais."
+},
+{
+
+
+"mot":"Droites sécantes ",
+"indice": "Droites qui se coupent en un point."
+},
+
+{
+"mot":"Droites perpendiculaires ",
+"indice": "Droites qui se rencontrent en formant un angle droit."
+},
+{
+
+"mot":"Droite graduée",
+"indice" :" Droite munie d'une graduation permettant de repérer des points."
+},
+
+
+{
+"mot":"Écart ",
+"indice": "Distance qui sépare deux éléments d’une figure"
+},
+{
+
+"mot":"Écart type",
+"indice" :"Mesure de la dispersion des valeurs d'une série autour de sa moyenne."
+},
+
+{
+"mot":"Échelle",
+"indice" :" Désigne un coefficient de proportionnalité"
+},
+{
+
+"mot":"Effectif",
+"indice" : "Nombre d'éléments dans un ensemble ou un échantillon."
+},
+{
+
+"mot":"Égalité",
+"indice" : "Relation entre deux expressions indiquant qu'elles ont la même valeur."
+},
+{
+
+"mot":"Égal ",
+"indice":" Ayant la même valeur ou la même quantité."
+},
+{
+
+"mot":"Égalité de Chasles ",
+"indice":" Propriété selon laquelle la somme des longueurs de segments adjacents est égale à la longueur du segment total (AB + BC = AC)."
+},
+{
+
+"mot":"Égalité de moindres carrés",
+"indice" : "Technique d'ajustement de données minimisant la somme des carrés des écarts."
+},
+{
+
+"mot":"(Les) éléments d'un triangle",
+"indice" :" Composants d'un triangle, à savoir les trois sommets, les trois côtés et les trois angles"
+},
+{
+
+"mot":"Ellipse",
+"indice" : "Courbe plane fermée dont la somme des distances de tout point aux deux foyers est constante.Désigne une courbe en forme d’ovale"
+},
+{
+
+
+"mot":"Encadrement ",
+"indice":" Intervalle dans lequel se trouve une valeur."
+},
+{
+
+"mot":"Enlever",
+"indice" : "Soustraire ou retirer une quantité."
+},
+{
+
+"mopt":"Entiers naturels",
+"indice" :" Nombres entiers non négatifs (0, 1, 2, 3, ...)."
+},
+{
+
+"mot":"Entiers relatifs ",
+"indice":" Nombres entiers positifs, négatifs et zéro."
+},
+{
+
+"mot":"Ensemble",
+"indice" :" Collection d'éléments bien définis. Regroupement d’éléments de même nature"
+},
+
+{
+"mot":"Ensemble vide",
+"indice" : "Ensemble ne contenant aucun élément."
+},
+{
+
+"mot":"Ensemble univers ",
+"indice":" Ensemble contenant tous les éléments considérés dans un contexte donné."
+},
+{
+
+"mot":"Ensemble de départ",
+"indice" :" Ensemble des valeurs possibles pour la variable indépendante d'une fonction."
+},
+
+{
+"mot":"Ensemble d'arrivée ",
+"indice":" Ensemble des valeurs possibles pour la variable dépendante d'une fonction."
+},
+{
+
+"mot":"Ensemble de définition d'une fonction ",
+"indice": "Ensemble des valeurs pour lesquelles une fonction est définie."
+},
+{
+
+"mot":"Ensemble image d'une fonction",
+"indice" :" Ensemble des valeurs prises par la fonction."
+},
+{
+
+"mot":"Ensemble de dérivabilité",
+"indice" :" Ensemble des points où une fonction est dérivable."
+},
+{
+
+"mot":"Ensemble de continuité",
+"indice" :" Ensemble des points où une fonction est continue."
+},
+{
+
+"mot":"Équation ",
+"indice": "Égalité contenant une ou plusieurs variables"
+},
+
+{
+
+"mot":"Équation de droite",
+"indice" :" Équation représentant une droite dans un plan cartésien."
+},
+{
+
+"mo":"Équation cartésienne ",
+"indice": "Équation exprimée en coordonnées cartésiennes."
+},
+{
+
+
+"mot":"Équation réduite",
+"indice" :" Équation de la forme y = mx + c représentant une droite."
+},
+{
+
+"mot":"Équation différentielle ",
+"indice":" Équation impliquant des dérivées d'une fonction inconnue."
+},
+{
+
+"mot":"Équation du premier degré dans R ",
+"indice": "Équation de la forme ax + b = 0 avec a et b réels."
+},
+{
+"mot":"Équation du premier degré dans R×R",
+"indice" :" Système de deux équations linéaires en deux variables."
+},
+{
+
+"mot":"Équiprobable ",
+"indice": "Ayant la même probabilité de se produire."
+},
+{
+
+"mot":"Équiprobabilité ",
+"indice": "Situation où tous les événements ont la même probabilité de se produire."
+},
+{
+"mot":"Équerre",
+
+"indice" : "Instrument de mesure pour tracer des angles droits."
+},
+{
+
+
+"mot":"Équidistant ",
+"indice": "Situé à la même distance de deux ou plusieurs points."
+},
+{
+
+
+"mot":"Espérance mathématique ",
+"indice": "Valeur moyenne d'une variable aléatoire pondérée par ses probabilités."
+},
+{
+
+
+"mot":"Espace probabilisé",
+"indice" :" Modèle mathématique définissant un espace de probabilités."
+},
+{
+
+
+"mot":"Espace",
+"indice" :" Ensemble de points dans un contexte géométrique."
+},
+{
+
+"mot":"Euclidienne",
+"indice" :" Désigne la division classique"
+},
+{
+
+
+"mot":"Événement",
+"indice" :" Résultat possible d'une expérience aléatoire."
+},
+{
+
+"mot":"Événements contraires ",
+"indice": "Deux événements dont la réalisation de l'un exclut la réalisation de l'autre."
+},
+{
+
+"mot":"Événements indépendants",
+"indice" :" Deux événements dont la réalisation de l'un n'affecte pas la réalisation de l'autre."
+},
+{
+
+
+"mot":"Extrémités (d'un segment)",
+"indice" : "Points situés aux deux bouts d'un segment."
+},
+{
+
+
+"mot":"Expliquer",
+ "indice": "Rendre clair ou intelligible par des explications."
+},
+{
+
+"mot":"Exemple ",
+"indice": "Illustration d'un concept ou d'une règle par un cas particulier."
+},
+{
+
+ 
+"mot":" Expression algébrique",
+
+"indice" : "Une combinaison de nombres, de variables et d'opérations arithmétiques (addition, soustraction, multiplication, division, exponentiation) écrite sous une forme mathématique, comme 3x² + 2x - 5."
+},
+{
+
+ 
+"mot":"Expression conjuguée ",
+"indice": "Pour une expression de la forme a + b√c, son conjugué est a - b√c."
+},
+{
+
+"mot":"Exponentielle",
+"indice" :" Fonction mathématique de la forme f(x) = exp(x) ou e^x, où e est la base des logarithmes naturels."
+},
+{
+
+"mot":"Exposant",
+"indice" :" Nombre indiquant combien de fois un nombre est multiplié par lui-même (dans a^b, b est l'exposant)."
+},
+
+{
+"mot":"Faces ",
+"indice":" Surfaces planes constituant les côtés d'un solide géométrique."
+},
+{
+
+"mot":"Facteurs ",
+"indice": "Nombres ou expressions multipliés ensemble pour obtenir un produit."
+},
+{
+
+"mot":"Facteur commun",
+"indice" : "Nombre ou expression qui est un facteur de deux ou plusieurs nombres ou expressions."
+},
+{
+
+"mot":"Factorisation",
+"indice":" Décomposition d'un nombre ou d'une expression en un produit de facteurs."
+},
+{
+
+"mot":"Factoriel ",
+"indice": "Produit de tous les entiers positifs jusqu'à un nombre donné, noté n! (n factoriel)."
+},
+{
+
+"mot":"Figure",
+"indice" : "Forme géométrique dessinée sur un plan."
+},
+{
+
+"mot":"Forme",
+"indice" :" Apparence ou contour extérieur d'un objet ou d'une figure."
+},
+{
+
+"mot":"Fonction ",
+"indice": "Relation entre deux ensembles où chaque élément du premier ensemble est associé à un unique élément du second ensemble."
+},
+
+{
+"mot":"Fonction croissante",
+"indice" :" Fonction pour laquelle, si x1 < x2, alors f(x1) ≤ f(x2)."
+},
+{
+
+"mot":"Fonction décroissante",
+"indice" : "Fonction pour laquelle, si x1 < x2, alors f(x1) ≥ f(x2)."
+},
+{
+
+"mot":"Fonction constante",
+"indice" : "Fonction qui prend la même valeur quel que soit l'élément de son domaine."
+},
+{
+
+"mot":"Fonction de répartition ",
+"indice":" Fonction qui donne la probabilité qu'une variable aléatoire soit inférieure ou égale à une certaine valeur."
+},
+{
+
+"mot":"Fonction injective",
+"indice" :" Fonction où chaque élément de l'ensemble de départ est associé à un élément unique de l'ensemble d'arrivée."
+},
+{
+
+"mot":"Fonction surjective",
+"indice" :" Fonction où chaque élément de l'ensemble d'arrivée est l'image d'au moins un élément de l'ensemble de départ."
+},
+
+{
+
+"mot":"Fonction bijective ",
+"indice":" Fonction à la fois injective et surjective, donc chaque élément de l'ensemble de départ est associé à un élément unique de l'ensemble d'arrivée et vice versa."
+},
+{
+
+"mot":"Fonction composée ",
+"indice": "Fonction obtenue en appliquant une fonction à la valeur obtenue par une autre fonction."
+},
+{
+
+"mot":"Fonction bornée",
+
+"indice" :" Fonction dont les valeurs sont limitées entre deux bornes."
+},
+{
+
+"mot":"Fonction majorée",
+"indice" : "Fonction dont toutes les valeurs sont inférieures ou égales à une certaine borne supérieure."
+},
+{
+
+"mot":"Fonction minorée",
+"indice" : "Fonction dont toutes les valeurs sont supérieures ou égales à une certaine borne inférieure."
+},
+{
+
+"mot":"Fonction continue",
+"indice":" Fonction sans discontinuité, c'est-à-dire que la courbe représentative n'a pas de saut ou de trou."
+},
+{
+
+"mot":"Fonction dérivable",
+"indice" :" Fonction pour laquelle la dérivée existe en chaque point de son domaine."
+},
+{
+
+"ùot":"Fonction logarithme népérien",
+"indice" : "Fonction réciproque de la fonction exponentielle, notée ln(x), où la base est e."
+},
+{
+
+"mot":"Fonction exponentielle népérienne",
+"indice" : "Fonction exponentielle de base e, notée exp(x) ou e^x."
+},
+{
+
+"mot":"Forme",
+"indice" :" Ensemble des contours d’un élément géométrique"
+},
+{
+
+"mot":"Formule",
+"indice" : "Expression mathématique utilisant des symboles pour représenter une relation entre des quantités."
+},
+{
+"mot":"Formule du binôme de Newton",
+"indice" : "Expression (a + b)^n = Σ (n k) a^(n-k) b^k, où Σ est la somme des termes pour k allant de 0 à n."
+},
+{
+
+"mot":"Formule de Moivre ",
+"indice": "Formule utilisée en trigonométrie complexe, (cos θ + i sin θ)^n = cos(nθ) + i sin(nθ)."
+},
+{
+
+"mot":"Formule d'Euler ",
+"indice": "Identité mathématique reliant les fonctions exponentielle, sinusoïdale et cosinus, e^(iθ) = cos θ + i sin θ."
+},
+{
+
+"mot":"Fraction",
+"indice" :" Nombre exprimé sous la forme d'un quotient de deux entiers."
+},
+{
+
+"mot":"Fractions irréductibles ",
+"indice":" Fraction dont le numérateur et le dénominateur sont premiers entre eux."
+},
+{
+
+"miot":"Fractions décimales ",
+"indice": "Fraction dont le dénominateur est une puissance de 10."
+},
+
+
+{
+
+"mot":"Géométrie",
+"indice" : "Branche des mathématiques concernant les propriétés et les relations des points, lignes, surfaces, et solides."
+},
+{
+
+"mot":"Génératrice",
+"indice" : "Ligne qui, par rotation ou translation, forme une surface courbe ou un solide."
+},
+{
+
+"mot":"Giga",
+"indice" : "Élément international de mesure qui représente un milliard de fois l’unité qui suit"
+},
+{
+
+"mot":"Glissement",
+"indice" : "Transformation géométrique déplaçant chaque point d'une figure d'une distance et d'une direction données."
+},
+{
+
+"mot":"Gradient",
+"indice" :" Désigne le taux de variation d’une grandeur"
+},
+{
+
+"mot":"Grandeur" ,
+"indice": "Désigne la dimension d’un élément en largeur, longueur, hauteur"
+},
+{
+
+"mot":"Graphe",
+"indice" :" Représentation graphique de données ou de relations mathématiques."
+},
+{
+
+
+
+"mot":"Graphique",
+"indice" :" Représentation visuelle de données ou de fonctions."
+},
+{
+
+"mot":"Gravité ",
+"indice":" Point sur lequel un objet tient en équilibre"
+},
+{
+
+"mot":"Groupe",
+"indice" :" Ensemble homogène, avec des critères communs"
+},
+
+
+{
+
+"mot":"Hauteur",
+"indice" : "Distance verticale entre la base et le sommet d'un objet ou d'une figure."
+},
+{
+
+"mot":"Hecto ",
+"indice": "Désigne le facteur multiplicateur par 100"
+},
+{
+
+"mot":"Hélice",
+"indice" : "En géométrie, désigne une spirale en hauteur"
+ },
+{
+
+"mot":"Heptagone",
+"indice" :" Polygone à sept côtés."
+},
+{
+"mot":"Heptagone ",
+"indice": "Désigne un polygone à 7 sommets et donc 7 côtés et 14 diagonales"
+},
+{
+
+"mot":"Hexagone",
+"indice" :" Polygone à six côtés dont chacun des angles vaut 60°"
+},
+{
+"mot":"Hexagone régulier ",
+"indice":" Hexagone dont tous les côtés et tous les angles sont égaux."
+},
+{
+
+"mot":"Histogramme",
+"indice" : "Représentation graphique de données quantitatives sous forme de barres verticales."
+},
+{
+
+"mot":"Homothétie",
+"indice" : "Transformation géométrique dilatant ou contractant une figure par rapport à un centre et un rapport donné."
+},
+{
+
+"mot":"Homologues",
+"indice" :" Éléments correspondants dans des figures similaires."
+
+},
+{
+"mot":"Hyperbole ",
+"indice": "Courbe obtenue comme section conique et définie par la différence des distances à deux foyers constante. Désigne une courbe en forme de toboggan"
+},
+{
+"mot":"Hypoténuse ",
+"indice":" Côté opposé à l'angle droit dans un triangle rectangle."
+},
+{
+
+"mot":"Hypothèse",
+"indice" : "Données de départ d’un problème à résoudre"
+},
+{
+
+"mot":"Identités remarquables",
+"indice" :" Formules algébriques pour les carrés et produits de binômes, comme (a + b)² = a² + 2ab + b²."
+},
+
+
+
+{
+
+"mot":"Illustration",
+"indice" : "Représentation visuelle d'un concept ou d'un problème."
+},
+{
+
+"mot":"Incompatibilité",
+"indice" :" Propriété de deux événements qui ne peuvent se produire simultanément."
+},
+{
+
+"mot":"Incompatible ",
+"indice": "Qui ne peut se produire en même temps qu'un autre événement."
+},
+{
+
+"mot":"Inéquation ",
+"indice":" Équation contenant une inégalité (>, <, ≥, ≤)."
+},
+
+{
+"mot":"Inéquation du premier degré",
+"indeice" : "Inéquation linéaire en une variable."
+},
+{
+
+"mot":"Intersection (d'intervalle)",
+"indice" :" Ensemble des points communs à deux intervalles."
+},
+{
+
+"mot":"Intervalle ",
+"indice": "Ensemble de nombres réels compris entre deux bornes."
+},
+{
+
+"mot":"Intervalles disjoints",
+"indice" :" Intervalles qui n'ont aucun point en commun."
+},
+{
+
+"mot":"Isométries du plan",
+"indice" :" Transformations conservant les distances, telles que les translations, rotations, symétries."
+},
+{
+"mot":"Inverse",
+"indice" :" Nombre qui, multiplié par un autre, donne 1 (l'inverse de x est 1/x)."
+},
+{
+
+"mot":"Inférieur ou égal",
+"indice" : "Relation indiquant qu'un nombre est plus petit ou égal à un autre."
+},
+{
+
+"mot":"Inférieur ",
+"indice": "Relation indiquant qu'un nombre est strictement plus petit qu'un autre."
+},
+{
+
+"mot":"Inclusion ",
+"indice":" Relation indiquant qu'un ensemble est contenu dans un autre."
+},
+{
+"mot":"Inclus ",
+"indice":" Qui est contenu dans un autre ensemble."
+},
+{
+
+"mot":"Inconnue",
+"indice" : "Désigne la variable que l’on cherche à calculer"
+},
+{
+
+"mot":"Inégalités",
+"indice":" Expressions mathématiques comparant deux quantités avec des signes >, <, ≥, ≤. Lorsque deux éléments ou plus ne peuvent pas être comparés"
+},
+{
+
+
+"mot":"Inégalité de moindres carrés",
+"indice" : "Méthode d'ajustement qui minimise la somme des carrés des différences entre les valeurs observées et estimées."
+},
+{
+
+"mot":"Infini ",
+"indice":" Désigne un élément, un résultat, une figure, une droite, sans limites"
+},
+{
+
+"mot":"Integral ",
+"indice":" Fonction représentant l'aire sous la courbe d'une fonction, ou la somme de quantités infiniment petites."
+},
+{
+
+"mot":"Isotrope ",
+"indice": "Désigne un élément qui a les mêmes propriétés dans toutes les directions"
+},
+{
+
+"mot":"Impair ",
+"indice": "Désigne un chiffre dont la division par deux ne donne pas un nombre entier"
+},
+{
+
+"mot":"Improbable ",
+"indice": "Un élément dont la probabilité d’occurrence est égale à 0"
+},
+{
+
+"mot":"Justifier",
+"indice" : "Fournir une explication ou une preuve rigoureuse."
+},
+{
+
+"mot":"Justification",
+"indice" : "Raison ou preuve démontrant la validité d'une assertion."
+},
+{
+
+
+"mot":"Kilogramme ",
+"indice": "Unité de distance qui vaut 1000 m"
+},
+
+
+{
+"mot":"Largeur ",
+"indice": "Dimension d'un objet perpendiculaire à sa longueur."
+},
+{
+"mot":"Latéral ",
+"indice": "Qui est situé sur le côté d’un élément"
+},
+{
+
+"mot":"Limite d'une fonction ",
+"indice": "Valeur à laquelle une fonction tend lorsque l'argument tend vers un certain point."
+},
+{
+
+"mot":"Linéaire",
+"indice" :" Qui est représenté par une droite"
+},
+{
+
+"mot":"Litre, dl, cl, ml, ... ",
+"indice": "Unités de mesure de volume."
+},
+{
+
+"mot":"Longueur",
+"indice" :" Dimension la plus longue d'un objet. Désigne la distance entre deux points"
+},
+{
+
+
+"mot":"Losange ",
+"indice":" Quadrilatère avec quatre côtés de même longueur et diagonales perpendiculaires."
+},
+{
+
+"mot":"Logarithme",
+"indice" :" Fonction réciproque de l'exponentielle, notée log(x) pour une base donnée."
+},
+{
+"mot":"Loi de probabilité",
+"indice" : "Fonction définissant la probabilité d'occurrence de chaque événement dans un espace probabilisé."
+},
+{
+
+"mot":"Loi binomiale",
+"indice" : "Distribution de probabilité décrivant le nombre de succès dans une séquence d'expériences indépendantes."
+},
+
+{
+"mot":"Mathématique ",
+"indice": "Science des nombres, des quantités et des formes et des relations entre eux."
+},
+{
+
+"mot":"Mathématicien",
+"indice" : "Personne spécialisée dans l'étude et l'application des mathématiques."
+},
+{
+
+"mot":"Matheux ",
+"indice": "Terme familier désignant une personne passionnée par les mathématiques."
+},
+{
+
+"mot":"Matrice ",
+"indice": "Tableau qui sert à interpréter des résultats théoriques"
+},
+{
+
+"mot":"Mètre",
+"indice":" Unités de mesure de longueur."
+},
+{
+
+"mot":"Mètre carré",
+"indice": "Unités de mesure de surface et de volume."
+},
+{
+
+"mot":"Métrique ",
+"indice":" Graduation qui permet de mesurer une grandeur"
+},
+{
+
+"mot":"Médiatrice (d’un segment)",
+"indice" :" Droite perpendiculaire à un segment en son milieu."
+},
+{
+
+"mot":"Méthode",
+"indice" :" Procédure systématique pour résoudre un problème."
+},
+{
+
+"mot":"Méthode de résolution",
+"indice":"Procédure ou ensemble de techniques utilisées pour trouver la solution d'une équation ou d'un système d'équations."
+},
+{
+
+"mot":"Méthode de résolution",
+"indice":"Procédure ou ensemble de techniques utilisées pour trouver la solution d'une équation ou d'un système d'équations."
+},
+{
+
+"mot":"Méthode de substitution",
+"idice":"Technique de résolution de systèmes d'équations où l'on exprime une variable en fonction des autres variables dans une équation, puis on substitue cette expression dans les autres équations pour résoudre le système."
+},
+{
+
+"mot":"Méthode d'addition ou de combinaison",
+"indice":"Technique de résolution de systèmes d'équations linéaires où l'on additionne ou soustrait les équations entre elles pour éliminer une des variables."},
+{
+
+"mot": "Méthode de comparaison",
+"indice":"Technique de résolution de systèmes d'équations où l'on exprime la même variable en fonction des autres variables dans deux équations différentes, puis on compare les deux expressions obtenues."
+},
+{
+
+"mot":"Méthode graphique",
+"indice":" Technique de résolution de systèmes d'équations ou d'inéquations en représentant graphiquement les équations et en trouvant les points d'intersection ou les zones d'intérêt sur le graphique."
+},
+
+{
+
+
+"mot":"Médiane",
+"indice":"Dans une liste de nombres, la médiane est la valeur qui sépare la liste en deux parties égales, c'est-à-dire, autant de valeurs au-dessus qu'en dessous. le nombre qui divise une série en deux groupes égaux en nombre de termes."
+},
+{
+
+
+"mot":"Méridien",
+"indice":"Ligne imaginaire sur la surface de la Terre reliant les pôles Nord et Sud, utilisée en géographie pour mesurer la longitude."
+},
+{
+
+"mot":"Mesure ",
+"indice": "Dimension d’un élément"
+},
+ {
+
+"mot":"Mesure d'un angle",
+"indice":"Quantité de rotation nécessaire pour amener un côté d'un angle à coïncider avec l'autre, généralement mesurée en degrés ou en radians."
+},
+{
+
+"mot":"Milieu (d'un segment)",
+"indice":"Le milieu d'un segment est le point qui divise ce segment en deux segments égaux."
+},
+{
+
+"mot":"Millénaire",
+"indice":"Un millénaire est une période de mille ans."
+},
+{
+
+"mot":"Million",
+"indice":"Un million est un nombre équivalent à 1 000 000 (un suivi de six zéros)."
+},
+{
+
+"mot":"Module d'un nombre complexe",
+"indice":"Le module d'un nombre complexe est la distance entre ce nombre complexe et l'origine dans le plan complexe"
+},
+{
+
+"mot":"Moitié",
+"indice" :" Désigne un élément coupé en deux"
+},
+{
+
+"mot":"Montrer",
+"indice":"En mathématiques, montrer signifie prouver une assertion ou une proposition à l'aide d'arguments logiques et de démonstrations rigoureuses."
+},
+{
+
+"mot":"Modalité",
+"indice":"En statistique, une modalité est une valeur prise par une variable qualitative. Par exemple, les réponses ''Oui'' et ''Non'' à une question fermée représentent deux modalités d'une variable binaire."
+},
+{
+
+"mot":"Mode",
+"indice":"Le mode est la valeur qui apparaît le plus fréquemment dans un ensemble de données."
+},
+{
+
+
+
+"mot":"Moyenne",
+"indice":"La moyenne est une mesure de tendance centrale d'un ensemble de données. Il en existe plusieurs types (arithmétique, géométrique, harmonique)."
+},
+{
+
+"mot":"Moyenne arithmétique",
+"indice":"La moyenne arithmétique est la somme de toutes les valeurs divisée par le nombre de valeurs."
+},
+{
+
+"mot":"Moyenne géométrique",
+"indice":"La moyenne géométrique est la racine n-ième du produit des n valeurs d'un ensemble de données."
+},
+{
+
+"mot":"Moyenne harmonique",
+"indice":"La moyenne harmonique est l'inverse de la moyenne arithmétique des inverses des valeurs."
+},
+{
+
+"mot":"Multiples d'un entier naturel",
+"indice":"Les multiples d'un entier naturel sont les nombres obtenus en multipliant cet entier par les entiers naturels (0, 1, 2, 3, ...)."
+},
+{
+
+"mot":"Multiplication",
+"indice":"La multiplication est une opération arithmétique qui consiste à ajouter un nombre à lui-même un certain nombre de fois. Par exemple, 3 × 4 = 3 + 3 + 3 + 3 "
+},
+{
+"mot":"Négatif",
+"indice":"Un nombre négatif est un nombre inférieur à zéro."
+},
+{
+
+"mot":"Négation ",
+"indice":" Désigne un opérateur qui sert à nier une proposition"
+},
+{
+
+"mot":"Nombre",
+"indice":"Un nombre est une entité mathématique utilisée pour compter, mesurer et étiqueter. Les types de nombres incluent les entiers, les réels, les rationnels, etc."
+},
+{
+
+
+"mot":" Médiane",
+"indice":"Dans une liste de nombres, la médiane est la valeur qui sépare la liste en deux parties égales, c'est-à-dire, autant de valeurs au-dessus qu'en dessous."
+},
+{
+
+"mot":" Méridien",
+"indice":"Ligne imaginaire sur la surface de la Terre reliant les pôles Nord et Sud, utilisée en géographie pour mesurer la longitude."
+},
+{
+
+"mot":" Mesure d'un angle",
+"indice":"Quantité de rotation nécessaire pour amener un côté d'un angle à coïncider avec l'autre, généralement mesurée en degrés ou en radians."
+},
+{
+"mot":" Milieu (d'un segment)",
+"indice":"Point situé à égale distance des extrémités d'un segment de droite."
+},
+{
+
+"mot":" Millénaire",
+"indice":"Période de mille ans."
+},
+{
+
+"mot":" Million",
+"indice":"Nombre égal à mille fois mille (1 000 000)."
+},
+{
+
+"mot":" Montrer",
+"indice":"Prouver ou démontrer mathématiquement une assertion ou une proposition."
+},
+{
+
+"mot":" Modalité",
+"indice":"En statistique, les différentes valeurs ou catégories que peut prendre une variable."
+},
+{
+"mot":" Mode",
+"indice":"En statistique, la valeur ou la catégorie la plus fréquente dans une distribution de données."
+},
+{
+"mot":" Multiples d'un entier naturel",
+"indice":"Nombres obtenus en multipliant cet entier naturel par des entiers, comme les multiples de 3 sont 3, 6, 9, 12, etc."
+},
+{
+
+"mot":" Multiplication",
+"indice":"Opération arithmétique consistant à ajouter un nombre à lui-même un certain nombre de fois."
+},
+{
+
+"mot":" Négatif",
+"indice":"Qualificatif pour un nombre inférieur à zéro."
+},
+{
+
+"mot":" Nombre",
+"indice":"Unité de base en mathématiques pour la mesure et le comptage."
+},
+{
+
+"mot":" Nombres pairs",
+"indice":"Entiers divisibles par 2, comme 2, 4, 6, 8, etc."
+},
+{
+"mot":" Nombres impairs",
+"indice":"Entiers qui ne sont pas divisibles par 2, comme 1, 3, 5, 7, etc."
+},
+{
+
+"mot":" Nombres premiers",
+"indice":"Entiers supérieurs à 1 qui n'ont que deux diviseurs, 1 et eux-mêmes, comme 2, 3, 5, 7, etc."
+},
+{
+
+"mot":" Nombres relatifs",
+"indice":"Nombres entiers positifs, négatifs et zéro, comme -3, 0, 4."
+},
+{
+
+"mot":" Nombres décimaux",
+"indice":"Nombres qui peuvent être écrits sous forme de fraction décimale, avec un nombre fini de chiffres après la virgule."
+},
+{
+
+"mot":" Nombres décimaux relatifs",
+"indice":"Nombres décimaux incluant les négatifs, comme -2.5, 0.75."
+},
+{
+
+"mot":" Nombre rationnel",
+"indice":"Nombre qui peut être exprimé comme le quotient de deux entiers, avec un dénominateur non nul."
+},
+{
+
+"mot":" Nombres irrationnels",
+"indice":"Nombres qui ne peuvent pas être exprimés comme le quotient de deux entiers."
+},
+{
+"mot":"Nombres réels",
+"indic":"Ensemble des nombres rationnels et irrationnels."
+},
+{
+
+"mot":" Nombre négatif",
+"indice":"Nombre inférieur à zéro."
+},
+{
+"mot":" Nombre positif",
+"indice":"Nombre supérieur à zéro."
+},
+{
+
+"mot":" Norme d'un vecteur",
+"indice":"Longueur ou magnitude d'un vecteur, souvent calculée comme la racine carrée de la somme des carrés de ses composants."
+},
+{
+
+"mot":" Numérateur",
+"indice":"Dans une fraction, le nombre situé au-dessus de la ligne de fraction."
+},
+{
+
+"mot":" Octogone régulier",
+"indice":"Polygone à huit côtés égaux et huit angles égaux."
+},
+{
+
+"mot":" Opération",
+"indice":"Action mathématique, telle que l'addition, la soustraction, la multiplication ou la division."
+},
+{
+
+"mot":" Opposé",
+"indice":"Nombre ayant la même valeur absolue mais un signe différent, comme -5 est l'opposé de 5."
+},
+{
+"mot":" Origine du repère",
+"indice":"Point de coordonnées (0, 0) dans un système de coordonnées cartésiennes."
+},
+{
+
+"mot":" Ordonnée",
+"indice":"Deuxième coordonnée d'un point dans un système de coordonnées cartésiennes, représentant sa position verticale."
+},
+{
+"mot":" Ordre croissant",
+"indice":"Arrangement de nombres ou d'éléments allant du plus petit au plus grand."
+},
+{
+
+"mot":" Ordre décroissant",
+"indice":"Arrangement de nombres ou d'éléments allant du plus grand au plus petit."
+},
+{
+
+"mot":" Ordre",
+"indice":"Position ou rang d'un élément dans une séquence."
+},
+{
+
+"mot":"Ordonnée à l'origine",
+"indice":"Valeur de la fonction quand l'abscisse (x) est égale à zéro, c'est le point où la courbe coupe l'axe des ordonnées."
+},
+{
+
+"mot":" Orthonormé",
+"indice":"Qualifie un repère dans lequel les axes sont perpendiculaires entre eux et ont la même unité de mesure."
+},
+{
+
+ "mot":"Orthogonal",
+"indice":"Qualifie des lignes, des plans ou des vecteurs perpendiculaires entre eux."
+},
+{
+
+"mot":" Parabole",
+"indice":"Courbe plane symétrique qui est le lieu des points équidistants d'un point fixe appelé foyer et d'une droite appelée directrice. L'équation d'une parabole standard est y = ax^2 + bx + c."
+},
+{
+
+"mot":" Paramètre",
+"indice":"Quantité variable qui permet de décrire un système ou une fonction, influençant sa forme ou son comportement sans changer sa nature fondamentale."
+},
+{
+
+"mot":" Parallèle",
+"indice":"Deux lignes ou plans qui ne se rencontrent jamais, peu importe la distance à laquelle ils sont prolongés."
+},
+{
+
+"mot":" Parallélogramme",
+"indice":"Quadrilatère dont les côtés opposés sont parallèles et égaux en longueur."
+},
+{
+
+"mot":" Pavé droit",
+"indice":"Solide à six faces rectangulaires où les angles entre les faces sont droits (90 degrés). Un pavé droit est aussi appelé un prisme rectangulaire."
+},
+{
+"mot":" Patron",
+"indice":"Représentation à plat d'un solide qui peut être découpée et pliée pour former le solide en question."
+},
+{
+ "mot":"Partie entière",
+"indice":"La plus grande valeur entière inférieure ou égale à un nombre donné. Par exemple, la partie entière de 3.7 est 3."
+},
+{
+
+"mot":" Partie décimale",
+"indice":"La partie d'un nombre qui se trouve à droite de la virgule dans une représentation décimale. Par exemple, dans 3.7, la partie décimale est 0.7."
+},
+{
+ "mot":"Périmètre",
+"indice":"La longueur totale du contour d'une figure plane."
+},
+{
+
+"mot":"Permutation",
+"indice":"Réarrangement des éléments d'un ensemble dans un ordre différent. Par exemple, les permutations de {1, 2, 3} sont {1, 2, 3}, {1, 3, 2}, {2, 1, 3}, etc."
+},
+{
+
+"mot":"Perpendiculaire",
+"indice":"Deux lignes ou plans qui se rencontrent à un angle de 90 degrés."
+},
+{
+
+"mot":"Pentagone",
+"indice":"Polygone à cinq côtés et cinq angles."
+},
+{
+"mot":"Perspectives cavalière",
+"indice":"Méthode de projection en dessin technique où les lignes parallèles le long de l'axe de profondeur sont tracées à un angle convenu et sont de longueur réduite."
+},
+{
+"mot":"PGCD (Plus Grand Commun Diviseur)",
+"indice":"Le plus grand nombre entier qui divise deux ou plusieurs nombres sans laisser de reste. Par exemple, le PGCD de 12 et 18 est 6."
+},
+{
+
+"mot":"Pi",
+"indice":"Constante mathématique représentant le rapport de la circonférence d'un cercle à son diamètre, approximativement égale à 3.14159."
+},
+{
+"mot":"Plan",
+"indice":"Surface plate infinie à deux dimensions, définie par trois points non alignés."
+},
+{
+
+"mot":"Plan complexe",
+"indice":"Plan bidimensionnel utilisé pour représenter les nombres complexes, avec l'axe horizontal représentant la partie réelle et l'axe vertical représentant la partie imaginaire. "
+},
+{
+"mot":"Plan médiateur",
+"indice":"Plan qui coupe un segment en son milieu et est perpendiculaire à ce segment."
+},
+{
+
+"mot":"Plus petit",
+"indice":"Terme utilisé pour comparer deux nombres ou éléments, indiquant celui qui a la valeur la plus faible."
+},
+{
+
+"mot":"Plus grand",
+"indice":"Terme utilisé pour comparer deux nombres ou éléments, indiquant celui qui a la valeur la plus élevée."
+},
+{
+
+"mot":"Point",
+"indice":"Une position ou localisation précise dans un espace, n'ayant ni longueur, ni largeur, ni hauteur."
+},
+{
+"mot":"Points alignés",
+"indice":"Points situés sur une même ligne droite."
+},
+{
+
+"mot":"Points non alignés",
+"indice":"Points qui ne sont pas situés sur la même ligne droite."
+},
+{
+"mot":"Positif",
+"indice":"Qualificatif pour un nombre supérieur à zéro."
+},
+{
+
+"mot":"Population",
+"indice":"En statistique, l'ensemble complet des éléments ou des individus sur lesquels une étude ou une enquête est menée."
+},
+{
+
+"mot":"Polygones particuliers",
+"indice":"Polygones ayant des propriétés spéciales, comme les carrés, les rectangles, les losanges, etc."
+},
+{
+
+"mot":"Polygones réguliers",
+"indice":"Polygones dont tous les côtés et tous les angles sont égaux, comme le carré ou le triangle équilatéral."
+},
+{
+
+"mot":"Polygone",
+"indice":"Figure géométrique plane formée par une séquence de segments de droite fermée, chaque segment étant appelé un côté."
+},
+{
+
+"mot":"Polynôme",
+"indice":"Expression algébrique composée de variables et de coefficients, impliquant seulement les opérations de l'addition, de la soustraction, de la multiplication et de l'exponentiation par des entiers non négatifs. Par exemple, 2x^3 + 3x^2 - x + 5."
+},
+{
+
+"mot":"Position relative",
+"indice":"Emplacement d'un objet par rapport à un autre objet ou point de référence."
+},
+{
+
+"mot":"Point invariant par une application",
+"indice":"Point qui reste fixe lors de l'application d'une transformation."
+},
+{
+
+"mot":"PPCM (Plus Petit Commun Multiple)",
+"indice":"Le plus petit nombre entier positif qui est un multiple commun de deux ou plusieurs nombres. Par exemple, le PPCM de 4 et 5 est 20."
+},
+{
+
+"mot":"Prisme droit",
+"indice":"Solide géométrique avec deux bases parallèles et congruentes, et des faces latérales rectangulaires perpendiculaires aux bases."
+},
+{
+
+"mot":"Produit",
+"indice":"Résultat de la multiplication de deux ou plusieurs nombres."
+},
+{
+
+"mot":"Prioritaire",
+"indice":"Qui doit être fait ou traité avant d'autres choses."
+},
+{
+
+"mot":"Propriété",
+"indice":"Caractéristique ou attribut spécifique d'une figure ou d'un ensemble en mathématiques, comme la commutativité ou l'associativité."
+},
+{
+
+"mot":"Prolongement par continuité",
+"indice":"Extension d'une fonction ou d'une courbe au-delà de son domaine initial tout en maintenant sa continuité."
+},
+{
+
+"mot":"Proportionnalité",
+"indice":"Relation entre deux grandeurs telles que leur quotient est constant. Par exemple, si y est proportionnel à x, alors y = k.x pour une constante k."
+},
+{
+
+"mot":"Primitive",
+"indice":"Fonction F dont la dérivée est une fonction donnée f, c'est-à-dire F'(x) = f(x)."
+},
+{
+
+"mot":"Probabilité",
+"indice":"Mesure de la vraisemblance qu'un événement se produise, variant entre 0 (impossible) et 1 (certain)."
+},
+{
+
+"mot":"Probabilité simple",
+"indice":"Probabilité d'un événement unique sans condition, notée P(A)."
+},
+{
+
+"mot":"Probabilité conditionnelle",
+"indice":"Probabilité d'un événement A sachant qu'un autre événement B s'est produit, notée P(A|B)."
+},
+{
+
+"mot":"Produit vectoriel",
+"indice":"Opération binaire sur deux vecteurs dans l'espace tridimensionnel, produisant un nouveau vecteur orthogonal aux deux vecteurs d'origine, avec une norme proportionnelle à l'aire du parallélogramme formé par les deux vecteurs."
+},
+{
+
+"mot":"Produit scalaire",
+"indice":"Opération binaire sur deux vecteurs donnant un nombre (scalaire) égal à la somme des produits de leurs composants correspondants."
+},
+{
+
+"mot":"Proportionnel",
+"indice":"Se dit de deux quantités ayant une relation de proportionnalité, c'est-à-dire, leur rapport est constant."
+},
+{
+
+"mot":"Proportionnalité",
+"indice":"Relation entre deux grandeurs dont le rapport est constant. Si deux quantités x et y sont proportionnelles, alors y = kx pour une constante k."
+},
+{
+
+"mot":"Projection orthogonale",
+"indice":"Projection d'un point ou d'une figure sur une ligne ou un plan où les lignes de projection sont perpendiculaires à la ligne ou au plan."},
+{
+"mot":"Puissance",
+"indice":"Résultat de la multiplication répétée d'un nombre par lui-même. Par exemple, 2^3 = 2 × 2 × 2 = 8."
+},
+{
+
+"mot":"Puissance décimale",
+"indice":"Puissance dont l'exposant est un nombre décimal, comme 2^{1.5}."
+},
+{
+
+"mot":"Pyramide",
+"indice":"Solide géométrique dont la base est un polygone et les autres faces sont des triangles qui se rejoignent en un point commun appelé sommet."
+},
+{
+
+"mot":"Pyramide régulière",
+"indice":"Pyramide dont la base est un polygone régulier et dont les faces latérales sont des triangles isocèles égaux."
+},
+{
+
+"mot":"P-liste ou p-uplet",
+"indice":"Liste ordonnée de p éléments, également appelée p-tuplet ou p-uple. Par exemple, un 3-uplet peut être (a, b, c)."
+},
+{
+
+
+"mot":"Quadrilatère",
+"indice":"Polygone à quatre côtés et quatre angles. Exemples de quadrilatères incluent le carré, le rectangle, le losange, et le trapèze."
+},
+{
+
+"mot":"Quotient",
+"indice":"Résultat de la division d'un nombre par un autre. Par exemple, le quotient de 10 divisé par 2 est 5."
+},
+{
+
+"mot":"Rapports de similitudes",
+"indice":"Ratios égaux entre les longueurs correspondantes des côtés de deux figures géométriques semblables."
+},
+{
+
+"mot":"Rapport de réduction",
+"indice":"Rapport entre les dimensions d'une figure réduite et les dimensions correspondantes de la figure originale. Par exemple, un rapport de réduction de 1:2 signifie que la figure réduite est deux fois plus petite que l'originale."
+},
+{
+
+"mot":"Ranger",
+"indice":"Ordonner des éléments selon une certaine règle ou critère, par exemple par ordre croissant ou décroissant."
+},
+
+{
+"mot":"Racine carrée",
+"indice":"Nombre qui, lorsqu'il est multiplié par lui-même, donne le nombre initial. Par exemple, la racine carrée de 9 est 3."
+},
+{
+"mot":"Racine d'un polynôme",
+"indice":"Valeur pour laquelle le polynôme s'annule, c'est-à-dire que P(x) = 0P(x)=0."
+},
+{
+
+"mot":"Rapporteur",
+"indice":"Instrument utilisé pour mesurer et dessiner des angles en degrés."
+},
+{
+
+"mot":"Rayon",
+"indice":"Segment de droite reliant le centre d'un cercle à un point sur le cercle. Le rayon est la moitié du diamètre."
+},
+
+{
+
+"mot":"Rectangle",
+"indice":"Un quadrilatère avec quatre angles droits (90 degrés). Les côtés opposés d'un rectangle sont parallèles et de même longueur."
+
+},
+{
+"mot":"Repère",
+"indice":"Système de référence constitué de plusieurs axes (souvent deux ou trois) permettant de définir la position d'un point dans un espace donné. Par exemple, un repère cartésien utilise deux axes perpendiculaires pour définir des coordonnées dans un plan."},
+{
+
+"mot":"Retrancher",
+"indice":"Soustraire une quantité d'une autre. Par exemple, retrancher 3 de 7 revient à effectuer l'opération 7−3."
+},
+{
+
+"mot":"Réduction",
+"indice":"Transformation géométrique qui diminue les dimensions d'une figure tout en conservant ses proportions."
+},
+{
+
+"mot":"Règle de priorité",
+"indice":"En mathématiques, un ensemble de conventions qui déterminent l'ordre dans lequel les opérations doivent être effectuées dans une expression. Par exemple, les parenthèses ont la priorité sur les multiplications et les additions."
+},
+{
+"mot":"Règle",
+"indice":"Principe ou norme générale utilisée pour résoudre un problème ou effectuer une opération. En mathématiques, il peut s'agir de règles d'algèbre, de géométrie ou de calcul."
+},
+{
+"mot":"Relations métriques",
+"indice" : "Relations qui concernent les mesures de longueurs, d'angles, de distances et d'autres grandeurs géométriques. Par exemple, dans un triangle, les relations métriques incluent le théorème de Pythagore et la loi des cosinus."
+
+},
+{
+"mot":"Remise",
+"indice":"Réduction d'un prix ou d'une quantité. En mathématiques financières, la remise est souvent calculée en pourcentage du prix initial."
+},
+{
+"mot":"Représentation graphique",
+"indice":"Visualisation d'une fonction, d'une relation ou de données à l'aide de graphes ou de diagrammes. Par exemple, la courbe représentative d'une fonction f(x)  est le graphe des points (x, f(x))"
+},
+{
+
+"mot":"solution",
+"indice":"Processus de trouver la solution d'une équation, d'un système d'équations ou d'un problème mathématique."
+},
+{
+
+"mot":"Résoudre",
+"indice":"Trouver la ou les solutions d'une équation, d'un système d'équations ou d'un problème. Par exemple, résoudre l'équation  x^2 - 4 = 0  consiste à trouver les valeurs de  x  qui satisfont cette équation."
+},
+{
+
+"mot":"Réunion (d'intervalle)",
+"indice":"L'union de deux intervalles est l'ensemble de tous les points qui appartiennent à au moins l'un des deux intervalles. Par exemple, la réunion des intervalles [1, 3] et [2, 5] est [1, 5]."
+},
+{
+
+"mot":"Repère orthonormé direct",
+"indice":"Système de coordonnées cartésiennes où les axes sont perpendiculaires (orthogonaux) et de même unité de mesure (normés), et où le sens de rotation du repère respecte la règle de la main droite. C'est un repère orthonormé direct."
+},
+{
+
+"mot":"Relation",
+"indice":"Ensemble de paires ordonnées."
+},
+{
+"mot":"Relation d'équivalence",
+"indice":"Relation binaire qui est réflexive (tout élément est en relation avec lui-même), symétrique (si un élément est en relation avec un autre, alors ce dernier est en relation avec le premier), et transitive (si un élément est en relation avec un deuxième, et le deuxième avec un troisième, alors le premier est en relation avec le troisième). Par exemple, la congruence modulo n est une relation d'équivalence."
+},
+{
+
+"mot":"Relation réflexive",
+"indice":"Relation binaire où chaque élément est en relation avec lui-même."
+},
+{
+"mot": "Relation symétrique",
+"indice":"Relation binaire où si un élément est en relation avec un autre, alors ce dernier est en relation avec le premier."
+},
+{
+
+"mot":"Relation transitive",
+"indice":"Relation binaire où si un élément est en relation avec un deuxième, et le deuxième avec un troisième, alors le premier est en relation avec le troisième."
+},
+{
+"mot":"Réflexion de plan",
+"indice":"Transformation géométrique qui fait correspondre chaque point d'une figure à son image symétrique par rapport à un plan donné. En 2D, c'est la symétrie axiale par rapport à une droite."
+},
+{
+
+"mot":"Rotation d'angle",
+"indice":"Transformation géométrique qui fait tourner chaque point d'une figure autour d'un point fixe (centre de rotation) d'un certain angle. Par exemple, une rotation de 90 degrés autour de l'origine dans le plan cartésien fait tourner les points de 90 degrés dans le sens antihoraire."
+},
+{
+
+"mot":"Réciproque",
+"indice":" "
+},
+{
+
+"mot":"Règle",
+"indice":"Principe ou directive à suivre pour effectuer des calculs, des constructions ou résoudre des problèmes."
+},
+
+{
+
+"mot":"Relations métriques",
+"indice":"En géométrie, les relations métriques concernent les relations entre les longueurs des côtés, les angles et les distances dans des figures géométriques, souvent exprimées par des théorèmes comme le théorème de Pythagore."
+},
+{
+
+"mot":"Remise",
+"indice":"Réduction d'un montant ou d'une valeur. En mathématiques financières, cela peut représenter un pourcentage de réduction appliqué à un prix initial."
+},
+{
+
+"mot":"Représentation graphique",
+"indice":"Visualisation d'une fonction, d'une équation, ou de données statistiques sous forme de graphique"
+},
+{
+
+"mot":"Résolution",
+"indice":"Processus de trouver une solution à une équation ou à un système d'équations. Cela peut impliquer diverses méthodes algébriques, graphiques, ou numériques."
+},
+{
+
+
+"mot":"Science",
+"indice":"Ensemble de connaissances et d’études structurées sur des phénomènes naturels, physiques, ou abstraits, obtenues par observation, expérience et raisonnement."
+},
+{
+
+"mot":"Segment",
+"indice":"Partie de droite limitée par deux points, appelés extrémités du segment. Par exemple, le segment [AB] est la partie de droite entre les points A et B."
+},
+{
+
+"mot":"Segment de droite",
+"indice":"Synonyme de segment, souvent utilisé pour insister sur la nature linéaire de l'objet."
+},
+{
+
+"mot":"Section",
+"indice":"Intersection d’un solide avec un plan. Par exemple, une section d'un cylindre par un plan perpendiculaire à son axe est un cercle."
+
+},
+{
+"mot":"Secteur angulaire",
+"indice":"Partie du plan délimitée par deux demi-droites ayant une origine commune. Un secteur angulaire est mesuré en degrés ou en radians."
+},
+{
+
+"mot":"Sens de variation d'une fonction",
+"indice":"Description de la manière dont les valeurs de la fonction augmentent ou diminuent. Une fonction est croissante si ses valeurs augmentent lorsque la variable augmente, et décroissante si ses valeurs diminuent."
+},
+{
+"mot":"Siècle",
+"indice":"Période de cent ans."
+},
+{
+
+"mot":"Simulation",
+"indice":"Procédure pour imiter le comportement d'un système ou processus par un modèle. En mathématiques, les simulations sont souvent utilisées pour étudier des systèmes complexes."
+},
+{
+
+"mot":"Simultanément",
+"indice":"Se produisant au même moment. En mathématiques, cela peut se référer à des événements ou des actions qui se passent en parallèle."
+},
+{
+
+"mot":"Similitudes planes directes",
+"indice":"Transformations géométriques qui préservent les angles et les rapports de longueurs entre les segments. Elles incluent les translations, les rotations et les homothéties."
+},
+{
+
+"mot":"Similitudes planes indirectes",
+"indice":"Transformations géométriques qui combinent une similitude directe avec une réflexion. Par exemple, une composition d'une homothétie et d'une réflexion."
+},
+{
+"mot":"Simplification",
+"indice":"Processus de réduction d’une expression mathématique à une forme plus simple ou plus compréhensible, souvent en combinant des termes semblables ou en utilisant des propriétés algébriques."
+},
+{
+
+"mot":"Simplifiée",
+"indice":"Se dit d'une forme réduite ou simplifiée d'une expression, d'une fraction, ou d'un équation."
+},
+{
+
+"mot":"Sinus",
+"indice":"Fonction trigonométrique qui, pour un angle donné dans un triangle rectangle, est égale au rapport de la longueur du côté opposé à l'angle sur la longueur de l'hypoténuse."
+},
+{
+
+"mot":"Signe d'un nombre",
+"indice":"Indication de si un nombre est positif ou négatif."
+},
+{
+
+"mot":"Somme",
+"indice":"Résultat de l'addition de deux ou plusieurs nombres."
+},
+{
+
+"mot":"Somme algébrique",
+"indice":"Somme de plusieurs termes où chaque terme peut être positif ou négatif, reflétant les opérations d'addition et de soustraction combinées."
+},
+{
+
+"mot":"Sommet",
+"indice":"Point d’intersection des côtés d’un polygone ou des arêtes d’un polyèdre."
+},
+{
+
+"mot":"Soustraction",
+"indice":"Opération mathématique consistant à retrancher un nombre d'un autre"
+},
+{
+
+"mot":"Sphère",
+"indice":"Surface en trois dimensions où tous les points sont à égale distance d'un point central appelé centre."
+},
+{
+
+"mot":"Statistique",
+"indice":"Discipline qui collecte, analyse, interprète, présente et organise des données."
+},
+{
+
+"mot":"Substituer",
+"indice":"Remplacer une variable ou une expression par une autre dans une équation ou une formule."
+},
+{
+
+"mot":"Successivement",
+"indice":"L'un après l'autre, en ordre. En mathématiques, cela peut signifier effectuer des opérations dans une séquence spécifiée."
+},
+{
+
+"mot":"Support",
+"indice":"En statistique, l’ensemble des valeurs possibles prises par une variable aléatoire. En géométrie, la droite ou le plan contenant une figure géométrique."
+},
+{
+
+"mot":"Surface",
+"indice":"Partie de l'espace définie par une étendue bidimensionnelle. La surface peut être plane, comme un carré, ou courbe, comme une sphère."
+},
+{
+
+"mot":"Supérieur  ", 
+"indice":" Se dit d'un nombre qui est plus grand qu'un autre."
+},
+{
+
+"mpt":"Supérieur ou égal",
+"indice":"Relation entre deux nombres indiquant que l'un est plus grand ou égal à l'autre."
+},
+{
+
+"mot":"Suite d'opérations",
+"indice":"Série d'opérations mathématiques à effectuer dans un ordre spécifique."
+},
+{
+
+"mot":"Suite",
+"indice":"Ensemble ordonné de nombres ou d’éléments, souvent définis par une règle ou une formule."
+},
+{
+
+"mot":"Suites numériques",
+"indice":"Séquences de nombres définis par une relation ou une formule spécifique. Par exemple, la suite des nombres pairs: 2, 4, 6, 8, ..."
+},
+{
+
+"mot":"Suite arithmétique",
+"indice":"Suite de nombres où chaque terme est obtenu en ajoutant un nombre fixe (raison) au terme précédent. Par exemple, 2, 5, 8, 11, ..."
+},
+{
+
+"mot":"Suite géométrique",
+"indice":"Suite de nombres où chaque terme est obtenu en multipliant le terme précédent par un nombre fixe (raison). Par exemple, 2, 4, 8, 16, ..."
+},
+{
+
+"mot":"Superposition",
+"indice":"Action de placer ou d’empiler des objets l'un sur l'autre de manière à ce qu'ils coïncident partiellement ou totalement."
+},
+{
+
+"mot":"Symétrie",
+"indice":"Propriété par laquelle une figure ou un objet peut être divisé en deux parties identiques, l'une étant l'image miroir de l'autre."
+},
+{
+
+"mot":"Symétriques",
+"indice":"Éléments qui sont identiques ou congruents lorsqu'ils sont réfléchis par rapport à un axe ou un plan."
+},
+{
+
+"mot":"Symétrie axiale",
+"indice":"Symétrie par rapport à une ligne (axe de symétrie), où chaque point d'un côté de l'axe a un point correspondant de l'autre côté à égale distance de l'axe."
+},
+{
+
+"mot":"Symétrie centrale",
+"indice":"Symétrie par rapport à un point (centre de symétrie), où chaque point et son image sont à égale distance du centre mais en directions opposées."
+},
+{
+
+"mot":"Système d'équations",
+"indice":"Ensemble de deux ou plusieurs équations contenant plusieurs variables, à résoudre simultanément."
+},
+{
+
+"mot":"Système d'inéquations",
+"indice":"Ensemble de plusieurs inéquations à résoudre simultanément, cherchant les valeurs des variables qui satisfont toutes les inéquations."
+},
+{
+
+"mot":"Symétrie glissée",
+"indice":"Combinaison d'une translation (glissement) et d'une réflexion par rapport à une droite."
+},
+{
+
+"mot":"Tangente",
+"indice":"Ligne droite ou courbe qui touche une courbe ou une surface en un point sans la couper."
+},
+{
+"mot":"Termes",
+"indice":"Les éléments d’une expression algébrique séparés par des signes + ou -."
+},
+{
+
+"mot":"Théorème",
+"indice":"Énoncé mathématique démontrable à partir d'axiomes ou d'autres théorèmes déjà prouvés."
+},
+{
+
+"mot":"Troncature",
+"indice":"Procédé consistant à couper une partie d'un nombre, en général les décimales, sans effectuer d'arrondissement."
+},
+{
+
+"mot":"Translation",
+"indice":"Déplacement d'une figure géométrique selon un vecteur, sans rotation ni changement de forme ou de taille."
+},
+{
+
+"mt":"Translation de vecteur",
+"indice":"Déplacement d'une figure géométrique par l'application d'un vecteur, où chaque point de la figure est déplacé de la même distance et dans la même direction."
+},
+{
+
+"mot":"Transformation",
+"indice":"Changement de position, de taille ou de forme d’une figure géométrique par des opérations comme la translation, la rotation, la réflexion, ou l’homothétie."
+},
+{
+
+"mot":"Transformation de l'espace",
+"indice":"Application d'une transformation géométrique dans l'espace tridimensionnel, modifiant la position, l'orientation, ou la forme d'objets dans cet espace."
+},
+{
+
+"mot":"Transformation du plan",
+"indice":"Application d'une transformation géométrique dans un plan bidimensionnel, modifiant la position, l'orientation, ou la forme d'objets dans ce plan."
+},
+{
+
+"mot":"Trapèze",
+"indice":"Quadrilatère avec au moins une paire de côtés parallèles."
+},
+{
+
+"mot":"Trapèze isocèle",
+"indice":"Trapèze dont les côtés non parallèles sont égaux en longueur."
+},
+{
+
+"mot":"Triangle rectangle",
+"indice":"Triangle avec un angle droit (90 degrés)."
+},
+{
+
+"mot":"Triangle isocèle",
+"indice":"Triangle ayant deux côtés de même longueur et les angles opposés à ces côtés égaux."
+},
+{
+
+"mot":"Triangle équilatéral",
+"indice":"Triangle dont les trois côtés et les trois angles sont égaux."
+},
+{
+"mot":"Triangle quelconque",
+"indice":"Triangle sans conditions particulières sur les longueurs de ses côtés ou les mesures de ses angles."
+},
+{
+
+"mot":"Triangle superposable",
+"indice":"Triangle qui peut être parfaitement ajusté sur un autre triangle par une série de transformations rigides (isométries)."
+},
+{
+
+"mot":"Triangle semblable",
+"indice":"Triangles ayant les mêmes formes mais pas nécessairement la même taille, leurs angles correspondants étant égaux et les côtés correspondants proportionnels."
+},
+{
+
+"mot":"Triangle inscrit dans un cercle",
+"indice":"Triangle dont tous les sommets sont situés sur le cercle."
+},
+{
+
+"mot":"Triangle rectangle isocèle",
+"indice":"Triangle ayant un angle droit et deux côtés de même longueur."
+},
+{
+"mot":"Trigonométrie",
+"indice":"Branche des mathématiques qui étudie les relations entre les angles et les côtés des triangles, ainsi que les fonctions trigonométriques."
+},
+{
+"mot":"Triple",
+"indice":"Résultat de la multiplication d'un nombre par trois."
+},
+{
+"mot":"Triplet (de points)",
+"indice":"Ensemble de trois points souvent utilisés pour décrire une configuration géométrique ou des coordonnées en trois dimensions."
+},
+{
+"mot":"Un",
+"indice":"Nombre entier suivant zéro et précédant deux. Il est l'unité de base en mathématiques."
+},
+{
+"mot":"Unité",
+"indice":"Élément de base utilisé pour mesurer ou compter. En géométrie, une unité peut représenter la longueur, "
+},
+{
+"mot":"Unitaire",
+"indice":"Relatif à une unité. Par exemple, une matrice unitaire est une matrice dont l'inverse est égal à sa transposée conjuguée."
+},
+{
+"mot":"Valeur absolue",
+"indice":"La valeur absolue d'un nombre est sa distance à zéro sur la droite des nombres réels, indépendamment du signe"
+},
+{
+"mot":"Variable",
+"indice":"Symbole représentant un élément ou un nombre qui peut varier dans un ensemble donné."
+},
+{
+"mot":"Variables aléatoires",
+"indice":"Fonction qui associe à chaque issue d'une expérience aléatoire un nombre réel. Il peut être discret (nombre fini ou dénombrable de valeurs possibles) ou continu (intervalle de valeurs possibles)."
+},
+{
+"mot":"Variation d'une fonction",
+"indice":"Changement de la valeur d'une fonction en fonction de la variation de la variable indépendante. Peut être mesurée par la dérivée de la fonction."
+},
+{
+"mot":"Variance",
+"indice":"Mesure de la dispersion des valeurs d'une variable aléatoire autour de leur moyenne. Calculée comme la moyenne des carrés des écarts par rapport à la moyenne, notée sigma^2."
+},
+{
+"mot":"Vecteur",
+"indice":"Objet mathématique défini par une magnitude et une direction. En géométrie, il est souvent représenté par une flèche dans un espace vectoriel."
+},
+{
+"mot":"Vecteur directeur",
+"indice":"Vecteur qui indique la direction d'une droite dans l'espace."
+},
+{
+"mot":"Vecteur directeur unitaire",
+"indice":"Vecteur directeur ayant une norme (longueur) de 1. Utilisé pour simplifier les calculs directionnels."
+},
+{
+"mot":"Vecteur unitaire",
+"indice":"Vecteur de norme 1."
+},
+{
+"mot":"Vecteur normal",
+"indice":"Vecteur perpendiculaire à une surface ou à un plan. Utilisé pour définir l'orientation de la surface ou du plan."
+},
+{
+
+"mot":"Vecteur de translation",
+"indice":"Vecteur indiquant le déplacement d'un point à un autre dans l'espace."
+},
+{
+"mot":"Vecteurs égaux",
+"indice":"Deux vecteurs qui ont la même direction, le même sens et la même norme."
+},
+{
+"mot":"Vecteurs opposés",
+"indice":"Deux vecteurs sont opposés s'ils ont la même direction mais des sens opposées."
+},
+{
+
+"mot":"Vecteurs colinéaires",
+"indice":"Deux vecteurs sont colinéaires s'ils sont sur la même ligne droite ou si l'un est un multiple scalaire de l'autre. Par exemple, vec{a} et k/vec{a} (où k est un scalaire) sont colinéaires."
+},
+{
+
+"mot":"Vecteurs orthogonaux",
+"indice":"Deux vecteurs sont orthogonaux s'ils sont perpendiculaires, c'est-à-dire si leur produit scalaire est nul. Par exemple, vec{a} vec{b} = ."
+},
+{
+"mot":"Vérifier",
+"indice":"Procéder à des vérifications ou à des contrôles pour s'assurer de l'exactitude d'un résultat ou d'une démonstration."
+},
+{
+"mot":"Volume",
+"indice":"Quantité d'espace occupée par un objet tridimensionnel, mesurée en unités cubiques."
+},
+{
+"mot":"Zéro",
+"indice":"Nombre nul, qui est l'élément neutre pour l'addition. Représente l'absence de quantité ou de valeur"
 }
 
 ]
+

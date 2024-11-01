@@ -44,7 +44,7 @@ main{ padding: 0 20px; background-color: azure; position: relative; min-height: 
 .apercu{ margin-bottom: 5px; color: #4e4a67;}
 .apercu p{ margin-bottom: 25px; text-align:justify;}
       /* acceuil */
-.contenu {  height: 100vh;  display:flex; justify-content: center; align-items: center;  background: #e0dddd;}
+.contenu {  height: 100vh;  display:flex; flex-direction: column; justify-content: center; align-items: center;  background: #e0dddd;}
 .cards {  position: relative;  height: 450px; width: 290px; background: azure;  display: flex; align-items: center;   border-radius: 20px; box-shadow: 0 5px 5px 0 rgba(0,0,0,0.4);}
 .card {  display: flex;flex-direction: column; align-items: center; justify-content: center;  position: absolute; top: 50px;  z-index: 1;}
 .card .img {height: 100px; width: 100px;flex-shrink: 0; opacity: 0; overflow: hidden;transition: opacity .2s ease-in-out, margin-top .3s ease-in-out;}
@@ -89,6 +89,7 @@ main{ padding: 0 20px; background-color: azure; position: relative; min-height: 
 }
 @media  screen and (min-width: 700px) {
     body{flex-direction: row; justify-self:self-start; }
+    .contenu{margin: 0 auto;}
     header, main{ position: sticky; align-self:  flex-start; display:flex; flex-direction: column; top: 70px; margin: 0;}
     footer{display: none;}
     header{ flex-basis: 35%; z-index: 10;}

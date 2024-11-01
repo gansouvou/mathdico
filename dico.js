@@ -15,7 +15,13 @@ const definir = document.querySelector(".definir");
 
 const btn = document.querySelector(".btn");
 
+
+
 fetch("mots.json")
+/*
+.then(res => res.json())
+.then(res => console.log(res))
+*/
 .then((response) => {
     return response.json();
 })
@@ -45,4 +51,3 @@ btn.addEventListener('click', () => {
     definition.style.display="none";
     btn.style.display="none";
 });
-
