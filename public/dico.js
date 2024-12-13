@@ -17,7 +17,7 @@ const btn = document.querySelector(".btn");
 
 
 
-fetch("mots.json")
+fetch("../mots.json")
 /*
 .then(res => res.json())
 .then(res => console.log(res))

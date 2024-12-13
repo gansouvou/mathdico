@@ -1,0 +1,8 @@
+{
+    "routes":[
+        {"src":"/","dest":"/acc.html"},
+        {"src":"/dico","dest":"/dico.html"},
+        {"src":"/h","dest":"/h.html"},
+        {"src":"/carte","dest":"/carte.html"}
+    ]
+}
